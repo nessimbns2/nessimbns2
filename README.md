@@ -36,7 +36,7 @@ I'm a **Machine Learning expert** and **Mobile Developer** with a passion for cr
 - **Internship at CubeIT**
   - Developed a transportation application, enabling users to book tickets, manage an e-wallet, and handle user authentication using SpringBoot.
   - Collaborated with a team to enhance user experience and streamline backend functionalities.
-- **Intern at Aftercode**
+- **Internship at Aftercode**
   - Developed a real-time time series model to predict sales, improving decision-making processes.
   - Created a model to assess the probability of fraud, helping to enhance security and risk management.
 
