@@ -2,6 +2,26 @@
 
 I'm a **Machine Learning expert** and **Mobile Developer** with a passion for creating intelligent applications and seamless user experiences. I specialize in building scalable machine learning models and developing cross-platform mobile applications.
 
+
+
+## 💼 Experience
+
+- **Mobile Devoloper at CubeIT** 
+  - Worked on a mobile application for transportation company agents to rent cars, track vehicles, manage contracts, and check driver reports.
+  - Fixed numerous bugs and redesigned existing features while adding new functionalities to the driver app to enhance user experience.
+- **Internship at CubeIT**
+  - Developed a transportation application, enabling users to book tickets, manage an e-wallet, and handle user authentication using SpringBoot.
+  - Collaborated with a team to enhance user experience and streamline backend functionalities.
+- **Internship at Aftercode**
+  - Developed a real-time time series model to predict sales, improving decision-making processes.
+  - Created a model to assess the probability of fraud, helping to enhance security and risk management.
+
+## 🎓 Education
+
+- **Bachelor in Computer Science**  
+  **Higher Institute of Computer Science (ISI) | Tunis El Manar University**  
+  September 2020 – June 2024
+
 ## 🛠️ Technologies & Tools
 
 - **Machine Learning:**
@@ -27,23 +47,8 @@ I'm a **Machine Learning expert** and **Mobile Developer** with a passion for cr
 - **Version Control:** 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-## 💼 Experience
-
-- **Mobile Devoloper at CubeIT** 
-  - Worked on a mobile application for transportation company agents to rent cars, track vehicles, manage contracts, and check driver reports.
-  - Fixed numerous bugs and redesigned existing features while adding new functionalities to the driver app to enhance user experience.
-- **Internship at CubeIT**
-  - Developed a transportation application, enabling users to book tickets, manage an e-wallet, and handle user authentication using SpringBoot.
-  - Collaborated with a team to enhance user experience and streamline backend functionalities.
-- **Internship at Aftercode**
-  - Developed a real-time time series model to predict sales, improving decision-making processes.
-  - Created a model to assess the probability of fraud, helping to enhance security and risk management.
-
 ## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/nessim-baraket-14360725b/))
 
 Feel free to check out my repositories for more of my work, and let's connect!
