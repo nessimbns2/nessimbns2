@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nessim Baraket
+# 👋 Hello, I'm Nessim
 
 I'm a **Machine Learning expert** and **Mobile Developer** with a passion for creating intelligent applications and seamless user experiences. I specialize in building scalable machine learning models and developing cross-platform mobile applications.
 
