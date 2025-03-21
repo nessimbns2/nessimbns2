@@ -1,6 +1,6 @@
-# 👋 Hey there, I'm Nessim!
+# Nessim Baraket
 
-**Expert in Machine Learning | Specialist in Mobile Application Development**
+**Machine Learning & Software engineer**
 
 Crafting smart apps and smooth user experiences. I build awesome machine learning models and create cross-platform mobile apps that rock!
 
@@ -14,14 +14,8 @@ Crafting smart apps and smooth user experiences. I build awesome machine learnin
 
 ## 🌟 Featured Projects
 
-- **Project 1**: Description of project 1 with a link to the repository.
-- **Project 2**: Description of project 2 with a link to the repository.
-- **Project 3**: Description of project 3 with a link to the repository.
-
-If you like what I do, maybe consider buying me a coffee/tea ☕👇
-
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-F7CA88?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nessim)
-
+- **Taalem Online**: An e-learning platform for primary students with parental control developed with Next.js and Spring Boot. [Repository Link](https://github.com/nessimbns2/E-Learning-Platform)
+**Flower Classification Project**: A project for the AWS Machine Learning Nanodegree. This project involves building and deploying a machine learning model to classify different species of flowers. [Repository Link](https://github.com/nessimbns2/Flower-Classification-Project)
 ---
 
 ## 📈 My GitHub Stats
