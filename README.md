@@ -1,26 +1,32 @@
-# 👋 Hello, I'm Nessim
+# 👋 Hey there, I'm Nessim!
 
-I'm a **Machine Learning Expert** and **Mobile Developer** with a passion for creating intelligent applications and seamless user experiences. I specialize in building scalable machine learning models and developing cross-platform mobile applications.
+I'm a **Machine Learning Wizard** and **Mobile App Magician** who loves crafting smart apps and smooth user experiences. I build awesome machine learning models and create cross-platform mobile apps that rock!
 
-## 💼 Experience
+---
+
+## 💼 What I've Been Up To
 
 - **Mobile Developer at CubeIT** 
-  - Developed a mobile application for transportation company agents to rent cars, track vehicles, manage contracts, and check driver reports.
-  - Fixed numerous bugs and redesigned existing features while adding new functionalities to the driver app to enhance user experience.
-- **Internship at CubeIT**
-  - Created a transportation application, enabling users to book tickets, manage an e-wallet, and handle user authentication using SpringBoot.
-  - Collaborated with a team to enhance user experience and streamline backend functionalities.
-- **Internship at Aftercode**
-  - Developed a real-time time series model to predict sales, improving decision-making processes.
-  - Created a model to assess the probability of fraud, enhancing security and risk management.
+  - Cooked up a mobile app for transportation agents to rent cars, track rides, manage contracts, and check out driver reports.
+  - Squashed bugs, revamped features, and added cool new stuff to the driver app to make it super user-friendly.
+- **Intern at CubeIT**
+  - Whipped up a transportation app where users can book tickets, manage an e-wallet, and handle user logins with SpringBoot.
+  - Teamed up with others to make the app even better and streamline backend magic.
+- **Intern at Aftercode**
+  - Built a real-time model to predict sales, helping businesses make smarter decisions.
+  - Created a fraud detection model to keep things safe and secure.
 
-## 🎓 Education
+---
+
+## 🎓 My Learning Journey
 
 - **Bachelor in Computer Science**  
   **Higher Institute of Computer Science (ISI) | Tunis El Manar University**  
   September 2020 – June 2024
 
-## 🛠️ Technologies & Tools
+---
+
+## 🛠️ My Toolbox
 
 ### Machine Learning
 
@@ -51,8 +57,35 @@ I'm a **Machine Learning Expert** and **Mobile Developer** with a passion for cr
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 📫 Get in Touch
+---
+
+## 📊 This Week I Spent My Time On
+
+![Nessim's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nessim&layout=compact&theme=radical)
+
+If you like what I do, maybe consider buying me a coffee/tea ☕👇
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-F7CA88?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nessim)
+
+---
+
+## 📋 My Todoist Stats
+
+- 🏆 8,004 Karma Points
+- 🌸 Completed 0 tasks today
+- ✅ Completed 673 tasks so far
+- ⏳ Longest streak is 10 days
+
+---
+
+## 📈 My GitHub Stats
+
+![Nessim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nessim&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nessim-baraket-14360725b/)
 
-Feel free to check out my repositories for more of my work, and let's connect!
+Check out my repos for more cool projects, and let's get in touch!
