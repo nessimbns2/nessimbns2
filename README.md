@@ -61,7 +61,7 @@ I'm a **Machine Learning Wizard** and **Mobile App Magician** who loves crafting
 
 ## 📊 This Week I Spent My Time On
 
-![Nessim's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nessim&layout=compact&theme=radical)
+![Nessim's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=radical)
 
 If you like what I do, maybe consider buying me a coffee/tea ☕👇
 
@@ -80,7 +80,7 @@ If you like what I do, maybe consider buying me a coffee/tea ☕👇
 
 ## 📈 My GitHub Stats
 
-![Nessim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nessim&show_icons=true&theme=radical)
+![Nessim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nessimbns2&show_icons=true&theme=radical)
 
 ---
 
