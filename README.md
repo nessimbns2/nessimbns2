@@ -27,5 +27,5 @@ Crafting smart apps and smooth user experiences. I build awesome machine learnin
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nessim-baraket-14360725b/)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nessimbns2@gmail.com)
 Check out my repos for more cool projects, and let's get in touch!
