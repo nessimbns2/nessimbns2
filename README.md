@@ -15,7 +15,7 @@ Crafting smart apps and smooth user experiences. I build awesome machine learnin
 ## 🌟 Featured Projects
 
 - **Taalem Online**: An e-learning platform for primary students with parental control developed with Next.js and Spring Boot. [Repository Link](https://github.com/nessimbns2/E-Learning-Platform)
-- **Flower Classification Project**: A project for the AWS Machine Learning Nanodegree. This project involves building and deploying a machine learning model to classify different species of flowers. [Repository Link](https://github.com/nessimbns2/Flower-Classification-Project)
+- **Flower Classification Project**: A project for the AWS Machine Learning Nanodegree. This project involves building and deploying a machine learning model to classify different species of flowers. [Repository Link](https://github.com/nessimbns2/AWS-Flower-Classification-Project)
 
 ---
 
